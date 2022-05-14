@@ -1,0 +1,26 @@
+.Profile{
+    padding: 25px;
+}
+
+.Profile-Info{
+    padding: 10px;
+    border: 5px groove #fff196;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+    
+
+}
+
+.Profile-text{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 16px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
